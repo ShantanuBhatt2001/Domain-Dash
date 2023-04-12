@@ -24,7 +24,7 @@ Domain Dash is a top-down 3D shooter game built using Unity. The game challenges
 
 ## Acknowledgements
 
--The foundation of this game is Unity Engine.
--Brackeys' Shrinking Planet, made for Ludum Dare 38, was a significant source of inspiration.
+- The foundation of this game is Unity Engine.
+- Brackeys' Shrinking Planet, made for Ludum Dare 38, was a significant source of inspiration.
 
 With its advanced features, such as gravity modification, basic AI enemy behavior, and solid technical foundation, Domain Dash is a great starting point for aspiring game developers and a nostalgic favorite for fans of classic shooter games.
